@@ -13,13 +13,13 @@ A full end-to-end production-grade deep learning system for **steel surface defe
 ## 🏆 Project Demo (Screenshots)
 
 ### 🔹 Prediction UI  
-<img src="frontend_screenshot.png" width="600"/>
+<img src="frontend/screenshots/frontend_screenshot.png" width="600"/>
 
 ### 🔹 Drag & Drop Upload + Camera Mode  
-<img src="frontend_upload.png" width="600"/>
+<img src="frontend/screenshots/frontend_upload.png" width="600"/>
 
 ### 🔹 Top-3 Confidence Predictions  
-<img src="frontend_predictions.png" width="600"/>
+<img src="frontend/screenshots/frontend_predictions.png" width="600"/>
 
 ---
 
